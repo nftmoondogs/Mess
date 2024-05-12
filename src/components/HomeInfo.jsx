@@ -6,11 +6,11 @@ const HomeInfo = ({ currentStage }) => {
   if (currentStage === 1)
     return (
       <h1 className='sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>
-        Hi, I'm
+        Yo bitch! Listen up, I'm
         <span className='font-semibold mx-2 text-white'>$Mess Token</span>
         👋
         <br />
-        A Software Engineer from Croatia 🇭🇷
+        this is $Mess comin' at ya uncut and unfiltered. I ain't about playin' by your lame-ass rules or doing what I'm "supposed" to, ya dig? Nah, when $Mess enters the game, it's nothing but pure insanity and havoc, bitch!
       </h1>
     );
 
